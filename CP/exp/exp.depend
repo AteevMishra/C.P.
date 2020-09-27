@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514140574 source:d:\ateev\programming\c++\exp\main.cpp
+	<iostream>
+
+1546755983 source:d:\ateev\programming\c++\exp\exp.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stddef.h>
+	<string.h>
+

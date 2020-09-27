@@ -1,0 +1,18 @@
+Sparse Table -
+
+Time Complexity to Create - O(NlogN)
+Answers queries in Time - O(logN)
+NOTE** - function to answer queries can be modified to answer in time - O(1)
+
+APPLICATION -----> (min/max/gcd of numbers) in a range
+
+To be used when ----
+
+1) No element in array is being changed or inserted, i.e, the original array is untouched or static . 
+   If some queries change the array then don't use this technique, use Segment Tree.
+
+2) Can be used on functions which are associative. Eg: To find min/max element in a range, or to find GCD of all elements in a range
+
+
+TIP*** - If you have the choice to work on Sparse Table then work on them and don't use Segment Trees because constant factor of
+Segment Trees is very high compared to Sparse Table

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548484498 source:d:\ateev\programming\c++\recursion\recursion.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

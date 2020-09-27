@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:d:\ateev\programming\c++\stacks\main.cpp
+	<iostream>
+
+1548044234 source:d:\ateev\programming\c++\stacks\stacks.cpp
+	<iostream>
+	<stdlib.h>
+	<stddef.h>
+	<conio.h>
+
+1548044234 source:d:\programming\c++\stacks\stacks.cpp
+	<iostream>
+	<stdlib.h>
+	<stddef.h>
+	<conio.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1547967207 source:d:\ateev\programming\c++\linked_list\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1553971609 source:d:\programming\c++\linked_list\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1556780068 source:d:\programming\c++\linked_list\dll.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1555304710 source:d:\programming\c++\linked_list\unrolled_ll.cpp
+	<iostream>
+	<conio.h>
+
